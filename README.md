@@ -8,5 +8,6 @@
 <h4 align=>Следует открывать файл "Фт-210008_Терентьева_денежные_купюры.py" </h3>
 <h4 align=>Для того, чтобы запустить программу необходимо скопировать код и вставить в любую среду разработки, поддерживающую Python.На входе программа получает число N, а на выходе количество каждой из данных купюр,которые использовались при выплате суммы N. </h3>
 <h2 => Скриншоты выполнения программы для тестов: </a> 
-<img src=" " alt="">
-<img src=" " alt="">
+<img src="https://github.com/Katerina001Tr/laba-10/blob/main/screenshots/%D0%A1%D0%BD%D0%B8%D0%BC%D0%BE%D0%BA%20%D1%8D%D0%BA%D1%80%D0%B0%D0%BD%D0%B0%20(1150).png" alt="">
+<img src="https://github.com/Katerina001Tr/laba-10/blob/main/screenshots/%D0%A1%D0%BD%D0%B8%D0%BC%D0%BE%D0%BA%20%D1%8D%D0%BA%D1%80%D0%B0%D0%BD%D0%B0%20(1151).png" alt="">
+<img src="https://github.com/Katerina001Tr/laba-10/blob/main/screenshots/%D0%A1%D0%BD%D0%B8%D0%BC%D0%BE%D0%BA%20%D1%8D%D0%BA%D1%80%D0%B0%D0%BD%D0%B0%20(1152).png" alt="">
